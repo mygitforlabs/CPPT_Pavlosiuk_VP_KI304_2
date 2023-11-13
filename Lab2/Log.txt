@@ -1,0 +1,35 @@
+Phone is ON!
+
+Phone is unlocked!
+
+Screen brightness is changed to: 3
+
+Volume is changed to: 5
+
+You are calling to +380-95-850-5662 _   _   _   _   _   _   _   _ Already in a call!
+The call ended, duration: 23
+
+WiFi is connected, now u can use apps!
+
+TIKTOK opened successfully
+
+TIKTOK closed successfully
+
+Bluetooth is connected!
+Headphones were automatically connected!
+
+Volume is changed to: 10
+
+SPOTIFY opened successfully
+
+SPOTIFY closed successfully
+
+MAIN_PAGE opened successfully
+
+Bluetooth is disconnected!
+Headphones were automatically disconnected!
+
+WiFi is disconnected!
+
+Phone is locked!
+
