@@ -25,7 +25,7 @@ public class App {
                 try {
                     Equations eq = new Equations();
                     System.out.print("Enter X: ");
-                    fout.print(eq.calculate(in.nextInt()));
+                    fout.print(eq.calculate(in.nextDouble()));
                 } finally {
                     fout.flush();
                     fout.close();

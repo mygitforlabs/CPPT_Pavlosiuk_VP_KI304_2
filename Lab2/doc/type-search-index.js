@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Pavlosiuk.Lab2","l":"App"},{"p":"KI304.Pavlosiuk.Lab2","l":"Call"},{"p":"KI304.Pavlosiuk.Lab2","l":"Media"},{"p":"KI304.Pavlosiuk.Lab2","l":"Phone"},{"p":"KI304.Pavlosiuk.Lab2","l":"Smart"}];updateSearchResults();
