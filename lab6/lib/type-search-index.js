@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Pavlosiuk.Lab6","l":"App"},{"p":"KI304.Pavlosiuk.Lab6","l":"Key"},{"p":"KI304.Pavlosiuk.Lab6","l":"Meaning"},{"p":"KI304.Pavlosiuk.Lab6","l":"Vocabulary"}];updateSearchResults();

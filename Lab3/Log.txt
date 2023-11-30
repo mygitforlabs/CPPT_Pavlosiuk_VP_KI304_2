@@ -7,7 +7,7 @@ Screen brightness is changed to: 3
 Volume is changed to: 5
 
 You are calling to +380-XX-XXX-XXXX _   _   _   _   _   _   _   _ Already in a call!
-The call ended, duration: 4
+The call ended, duration: 14
 
 WiFi is connected, now u can use apps!
 
@@ -46,5 +46,5 @@ Camera:true
 Microphone:true
 
 The video call ended!
-Duration:24
+Duration:22
 

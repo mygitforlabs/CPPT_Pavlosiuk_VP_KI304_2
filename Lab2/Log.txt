@@ -7,7 +7,7 @@ Screen brightness is changed to: 3
 Volume is changed to: 5
 
 You are calling to +380-95-850-5662 _   _   _   _   _   _   _   _ Already in a call!
-The call ended, duration: 23
+The call ended, duration: 17
 
 WiFi is connected, now u can use apps!
 
