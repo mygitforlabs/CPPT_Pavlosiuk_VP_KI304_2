@@ -1,17 +1,17 @@
 package KI304.Pavlosiuk.Lab6;
+
 /**
- * Class <code>Meaning</code> implements Object
+ * The class <code>Meaning</code> implements the Object interface.
  */
 public class Meaning implements Object {
-	   private String word;
-	    private int index;
+    private String word;
+    private int index;
 
     /**
-     * Constructor
-     * 
-     * @param color  Color
-     * @param radius Radius
-     * @param height Height
+     * Constructor.
+     *
+     * @param word  The word for the Meaning object.
+     * @param index The index for the Meaning object.
      */
     public Meaning(String word, int index) {
         this.word = word;
@@ -19,67 +19,58 @@ public class Meaning implements Object {
     }
 
     /**
-     * @return String with word
+     * @return The word associated with the object.
      */
     public String getWord() {
         return word;
     }
 
     /**
-     * Method set word of object
-     * 
-     * @param word Word
+     * Sets the word for the object.
+     *
+     * @param word The new word for the Meaning object.
      */
     public void setWord(String word) {
         this.word = word;
     }
 
     /**
-     * @return int object index
+     * @return The index of the object.
      */
     public int getIndex() {
         return index;
     }
 
     /**
-     * Method set object index
-     * 
-     * @param index Index
+     * Sets the index for the object.
+     *
+     * @param index The new index for the Meaning object.
      */
     public void setIndex(int index) {
         this.index = index;
     }
 
     /**
-     * Method set object length
-     * 
-     * @param length Length
-     */
-
-    /**
-     * Method return object length
-     * 
-     * @return int object length
+     * @return The length of the word associated with the object.
      */
     public int getLength() {
         return word.length();
     }
 
     /**
-     * Method compare objects
-     * 
-     * @param obj Object
-     * @return int (0, 1, -1)
+     * Compares objects based on their lengths.
+     *
+     * @param obj The object to compare.
+     * @return An integer representing the result of the comparison (0, 1, -1).
      */
     @Override
     public int compareTo(Object obj) {
         int l = getLength();
-        return Integer.compare(l, obj.getLength());
+        return Integer.compare(l, ((Object) obj).getLength());
     }
 
-
     /**
-     * Method print object data
+     * Prints the data of the object.
      */
     public void printData() {
         System.out.println("Type: Meaning, Word: " + word + ", Index: " + index + ", Length: " + getLength() + ";");

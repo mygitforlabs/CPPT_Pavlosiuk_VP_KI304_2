@@ -2,7 +2,7 @@ package KI304.Pavlosiuk.Lab6;
 /**
  * Class App realize example program for lab 6
  * 
- * @author Anton Panurin
+ * @author Vitalii_Pavlosiuk
  * @version 1.1
  * @since version 1.0
  */

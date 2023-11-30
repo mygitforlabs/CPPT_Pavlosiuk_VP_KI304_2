@@ -16,7 +16,7 @@ public class Vocabulary<T extends Object> {
     }
 
     /**
-     * Method find object with the smallest volume
+     * Method find object max length
      */
     public T findMax() {
         if (!arr.isEmpty()) {
@@ -33,7 +33,7 @@ public class Vocabulary<T extends Object> {
 
 
     /**
-     * Method add new object to shelf
+     * Method add new object 
      * 
      * @param object value
      */
@@ -45,7 +45,7 @@ public class Vocabulary<T extends Object> {
     }
 
     /**
-     * Method delete object from shelf
+     * Method delete object from vocabulary
      * 
      * @param i The index of element
      */
