@@ -1,5 +1,3 @@
-import sys
-
 def execute():
     nRows = int(input("Введіть розмір квадратної матриці: "))
     filler = input("Введіть символ-заповнювач: ")
